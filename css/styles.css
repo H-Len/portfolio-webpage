@@ -6,19 +6,19 @@ h1 {
 #languages {
   border-width: medium;
   background-color: blue;
+  float: right;
 }
 /*
 float.img {
   border-spacing: 2px;
   border-color: black;
-  float: right;
-}
+} */
 
 .container {
   padding: 50px;
   border: #rgb(0, 100, 100);
   background-color: lightblue;
-}
+  }
 
 .important {
   color: red;
@@ -32,12 +32,20 @@ float.img {
 }
 
 img.mypic {
-  float: right;
-} */
+  float: left;
+}
 
 .sidebar {
-  width: 20%;
+  width: 50%;
   float: left;
-  background-color: red;
   color: pink;
+  text-align: right;
+}
+
+languages.sidebar {
+
+}
+
+h6 {
+  color: indigo;
 }
