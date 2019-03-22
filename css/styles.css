@@ -3,7 +3,7 @@ h1 {
   color: green;
 }
 
-#languages {
+# languages {
   border-width: medium;
   background-color: blue;
 }
@@ -17,4 +17,8 @@ img {
 .container {
   border: #rgb(0, 100, 100);
   background-color: lightblue;
+}
+
+.important {
+  color: red;
 }
