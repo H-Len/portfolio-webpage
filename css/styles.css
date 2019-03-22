@@ -4,5 +4,8 @@ h1 {
 }
 
 img {
-  float: right;
+  border: 2px;
+  border-color: black;
 }
+
+#languages
