@@ -22,3 +22,9 @@ img {
 .important {
   color: red;
 }
+
+.mypic {
+  border-width: 3px;
+  border-color: yellow;
+  float; right;
+}
