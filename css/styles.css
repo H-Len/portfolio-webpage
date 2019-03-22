@@ -8,7 +8,7 @@ h1 {
   background-color: blue;
 }
 
-img {
+float.img {
   border-spacing: 2px;
   border-color: black;
   float: right;
@@ -29,4 +29,8 @@ img {
   border-width: 3px;
   border-color: yellow;
   float; right;
+}
+
+img.mypic {
+  float: right;
 }
