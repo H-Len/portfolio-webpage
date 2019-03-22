@@ -3,9 +3,18 @@ h1 {
   color: green;
 }
 
-img {
-  border: 2px;
-  border-color: black;
+#languages {
+  border-width: medium;
+  background-color: blue;
 }
 
-#languages
+img {
+  border-spacing: 2px;
+  border-color: black;
+  float: right;
+}
+
+.container {
+  border: #rgb(0, 100, 100);
+  background-color: lightblue;
+}

@@ -6,7 +6,7 @@
 
 ## Description
 
-_Starting with HTML, CSS, and bootstrap, this application will later act as a landing page for my programming portfolio. This page will give a brief bit of information about me, background education, how and why I got into programming, and list other hobbies I have. On this page will be links to some of my current projects._
+_Starting with HTML, CSS, and bootstrap, this application will later act as a landing page for my programming portfolio. This page will give a brief bit of information about me, background education, how and why I got into programming, and list other hobbies I have. On this page will be links to some of my current projects. There is a picture of books in place of a picture of myself because I really enjoy reading, books, and learning._
 
 ## Setup/Installation Requirements
 
