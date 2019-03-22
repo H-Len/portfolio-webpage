@@ -15,6 +15,7 @@ img {
 }
 
 .container {
+  padding: 50px;
   border: #rgb(0, 100, 100);
   background-color: lightblue;
 }
@@ -23,7 +24,8 @@ img {
   color: red;
 }
 
-.mypic {
+.float {
+  width: 200px;
   border-width: 3px;
   border-color: yellow;
   float; right;
