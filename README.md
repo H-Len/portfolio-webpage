@@ -19,7 +19,7 @@ _This app depends on internet connection in order for it to be displayed on a br
 
 ## Known Bugs
 
-_There are no known issues with this webpage at this time. I will list things to be aware of if anything comes up in the process of making the page._
+_The use of span and float are not currently appearing on the webpage.
 
 ## Support and contact details
 
