@@ -39,7 +39,7 @@ img.mypic {
   width: 50%;
   float: left;
   color: pink;
-  text-align: right;
+  text-align: left;
 }
 
 languages.sidebar {
@@ -48,4 +48,8 @@ languages.sidebar {
 
 h6 {
   color: indigo;
+}
+
+.iconicme {
+
 }
