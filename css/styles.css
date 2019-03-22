@@ -8,8 +8,12 @@ h1 {
   background-color: blue;
   float: right;
 }
-/*
+
+
+/* testing border possibilities
+
 float.img {
+  border-radius: 50px;
   border-spacing: 2px;
   border-color: black;
 } */
