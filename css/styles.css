@@ -7,22 +7,15 @@ h1 {
   border-width: medium;
   background-color: blue;
   float: right;
+  padding-left: 50px;
 }
-
-
-/* testing border possibilities
-
-float.img {
-  border-radius: 50px;
-  border-spacing: 2px;
-  border-color: black;
-} */
 
 .container {
   padding: 50px;
   border: #rgb(0, 100, 100);
   background-color: lightblue;
-  }
+  margin: 15px;
+}
 
 .important {
   color: red;
