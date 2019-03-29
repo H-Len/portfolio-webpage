@@ -19,7 +19,7 @@ _This app depends on internet connection in order for it to be displayed on a br
 
 ## Link to GitHub Pages
 
-_<a href="https://github.com/H-Len/portfolio-webpage.git">Master branch of my portfolio webpage</a>_
+_<a href="https://github.com/H-Len/portfolio-webpage.git">Link to my portfolio webpage</a>_
 
 ## Known Bugs
 
