@@ -17,9 +17,13 @@ _Starting with HTML, CSS, and bootstrap, this application will later act as a la
 
 _This app depends on internet connection in order for it to be displayed on a browser._
 
+## Link to GitHub Pages
+
+_<a href="https://github.com/H-Len/portfolio-webpage.git">Master branch of my portfolio webpage</a>_
+
 ## Known Bugs
 
-_The use of span and float are not currently appearing on the webpage.
+_The use of span and float are not currently appearing on the webpage._
 
 ## Support and contact details
 
